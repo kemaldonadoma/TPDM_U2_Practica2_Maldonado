@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TPDM_U2_Practica2_Maldonado</string>
+    <string-array name="tipos">
+        <item>casa</item>
+        <item>auto</item>
+        <item>medico</item>
+    </string-array>
+</resources>
